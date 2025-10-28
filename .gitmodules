@@ -1,0 +1,3 @@
+[submodule "titanic"]
+	path = titanic
+	url = git@github.com:wisteriahuman/titanic.git

@@ -13,7 +13,7 @@ Kaggle のコンペティションごとに作成された、独立したGitリ�
 
 ```bash
 # このリポジトリと、登録されているサブモジュールを再帰的（recursive）にクローンする
-git clone --recursive [https://github.com/(あなたのユーザー名)/Kaggle.git](https://github.com/(あなたのユーザー名)/Kaggle.git)
+git clone --recursive https://github.com/wisteriahuman/Kaggle.git
 ```
 
 すでにこのリポジトリをクローン済みの場合は、以下のコマンドでサブモジュールを初期化・取得できます。
